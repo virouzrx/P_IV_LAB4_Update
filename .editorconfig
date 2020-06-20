@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0060: Usuń nieużywany parametr
+dotnet_code_quality_unused_parameters = all:suggestion
